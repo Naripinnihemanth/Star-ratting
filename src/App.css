@@ -1,0 +1,14 @@
+.active {
+  color: yellow;
+  /* box-shadow: 0px 0px 10px black inset; */
+}
+.inactive {
+  color: black;
+}
+.star-container {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
